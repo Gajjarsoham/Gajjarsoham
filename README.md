@@ -23,7 +23,6 @@ I'm a Computer Engineering student from Ahmedabad, India, passionate about build
 
 ### 🚀 Featured Projects
 
-- **JobTracker** — A backend project for managing users and job application data.
 - **MalaTrack** — A project I'm continuing to develop.
 - **Malabiz** — A Python project.
 
