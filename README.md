@@ -15,11 +15,11 @@ I'm a Computer Engineering student from Ahmedabad, India, passionate about build
 
 **Frontend:** HTML, CSS, React, Tailwind CSS
 
-**Backend:** Node.js, Express.js, REST APIs
+**Backend:** Node.js, Express.js, REST APIs, Authentication
 
 **Databases:** MongoDB, MySQL
 
-**Tools:** Git, GitHub, Postman
+**Tools:** Git, GitHub, Postman, MongoDB Compass
 
 ### 🚀 Featured Projects
 
